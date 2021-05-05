@@ -33,7 +33,7 @@ As the problem we are trying to solve is a classification problem, we will lever
 
 | Crime         | ATM           | Accessories Store  | Auto Garage  | Beach    | other venues categories |
 | ------------- | ------------- | ------------------ | ------------ | -------- | ----------------------- |
-| FORGERY       | 0.000000      | 0.008798           | 0.002933     | 0.016949 | ....................... |
+| FORGERY       | 0.000000      | 0.008798           | 0.002933     | 0.016949 |  |
 
 where each number indicates the mean of the frequency of occurrence of each venue category for the given crime.
 
