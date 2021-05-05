@@ -29,6 +29,12 @@ The analysis will leverage on the latitude and longitude of committed crimes pro
 
 discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, if any, and what machine learnings were used and why.
 
+As the problem we are trying to solve is a classification problem, we will leverage on the __KMeans__ algorithm to cluster crimes categories using nearby venues category. An example of a data point for the __KMeans__ algorithm is given below:
+
+| Crime         | ATM           | Accessories Store  |
+| ------------- |:-------------:| ------------------:|
+| FORGERY       | right-aligned | $1600              |
+
 ## Results
 
 discuss the results.
