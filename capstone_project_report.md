@@ -39,22 +39,59 @@ where each number indicates the mean of the frequency of occurrence of each venu
 
 ## Results
 
-Using the __KMeans__ algorithm the crimes categories has been clustered into 5 groups. The following images eports excerpts of each cluster:
+Using the __KMeans__ algorithm the crimes categories has been clustered into 5 groups. The following images report excerpts of each cluster.
 
 ### Cluster 1
-[](https://raw.githubusercontent.com/DocBrown85/AppliedDataScienceCapstone/main/images/cluster_1.JPG)
+
+As the following excerpt shows, the cluster 1 contains only __FRAUDS__ crimes with well defined venues:
+![](https://raw.githubusercontent.com/DocBrown85/AppliedDataScienceCapstone/main/images/cluster_1.JPG)
 
 ### Cluster 2
-[](https://raw.githubusercontent.com/DocBrown85/AppliedDataScienceCapstone/main/images/cluster_2.JPG)
+
+Cluster 2 contains an heterogeneous set of crimes:
+![](https://raw.githubusercontent.com/DocBrown85/AppliedDataScienceCapstone/main/images/cluster_2.JPG)
+
+By further investigating, cluster 2 contains the following set of crimes:
+
+| CRIME                               |
+| ----------------------------------- |
+|                    DANGEROUS DRUGS  |
+|       ASSAULT 3 & RELATED OFFENSES  |
+|                      PETIT LARCENY  |
+|                      GRAND LARCENY  |
+|                      HARRASSMENT 2  |
+|                     FELONY ASSAULT  |
+|     CRIMINAL MISCHIEF & RELATED OF  |
+|            MISCELLANEOUS PENAL LAW  |
+|           OFFENSES INVOLVING FRAUD  |
+|           VEHICLE AND TRAFFIC LAWS  |
+|                           ROBBERY   |
+|                          BURGLARY   |
+|     OFF. AGNST PUB ORD SENSBLTY &   |
+|    INTOXICATED & IMPAIRED DRIVING   |
+|    OFFENSES AGAINST PUBLIC ADMINI   |
+|                 DANGEROUS WEAPONS   |
+|                           FORGERY   |
+|               ADMINISTRATIVE CODE   |
+|    UNAUTHORIZED USE OF A VEHICLE    |
+|    POSSESSION OF STOLEN PROPERTY    |
+|    GRAND LARCENY OF MOTOR VEHICLE   |
+|                             ARSON   |
 
 ### Cluster 3
-[](https://raw.githubusercontent.com/DocBrown85/AppliedDataScienceCapstone/main/images/cluster_3.JPG)
+
+Like cluster 1, cluster 3 contains for the most __OTHER OFFENSES RELATED TO THEF__ crimes with well defined venues as well:
+![](https://raw.githubusercontent.com/DocBrown85/AppliedDataScienceCapstone/main/images/cluster_3.JPG)
 
 ### Cluster 4
-[](https://raw.githubusercontent.com/DocBrown85/AppliedDataScienceCapstone/main/images/cluster_4.JPG)
+
+Cluster 4 contains only __CRIMINAL TRESPASS__ crimes with homogeneus identifying venues:
+![](https://raw.githubusercontent.com/DocBrown85/AppliedDataScienceCapstone/main/images/cluster_4.JPG)
 
 ### Cluster 5
-[](https://raw.githubusercontent.com/DocBrown85/AppliedDataScienceCapstone/main/images/cluster_5.JPG)
+
+Also cluster 5 well identifies crime __THEFT-FRAUD__ with its related nearby venue:	
+![](https://raw.githubusercontent.com/DocBrown85/AppliedDataScienceCapstone/main/images/cluster_5.JPG)
 
 ## Discussion
 
