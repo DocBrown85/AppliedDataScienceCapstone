@@ -31,9 +31,11 @@ discuss and describe any exploratory data analysis that you did, any inferential
 
 As the problem we are trying to solve is a classification problem, we will leverage on the __KMeans__ algorithm to cluster crimes categories using nearby venues category. An example of a data point for the __KMeans__ algorithm is given below:
 
-| Crime         | ATM           | Accessories Store  |
-| ------------- |:-------------:| ------------------:|
-| FORGERY       | right-aligned | $1600              |
+| Crime         | ATM           | Accessories Store  | Auto Garage  | Beach    | other venues categories |
+| ------------- | ------------- | ------------------ | ------------ | -------- | ----------------------- |
+| FORGERY       | 0.000000      | 0.008798           | 0.002933     | 0.016949 | ....................... |
+
+where each number indicates the mean of the frequency of occurrence of each venue category for the given crime.
 
 ## Results
 
