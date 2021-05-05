@@ -39,7 +39,22 @@ where each number indicates the mean of the frequency of occurrence of each venu
 
 ## Results
 
-discuss the results.
+Using the __KMeans__ algorithm the crimes categories has been clustered into 5 groups. The following images eports excerpts of each cluster:
+
+### Cluster 1
+[](https://raw.githubusercontent.com/DocBrown85/AppliedDataScienceCapstone/main/images/cluster_1.JPG)
+
+### Cluster 2
+[](https://raw.githubusercontent.com/DocBrown85/AppliedDataScienceCapstone/main/images/cluster_2.JPG)
+
+### Cluster 3
+[](https://raw.githubusercontent.com/DocBrown85/AppliedDataScienceCapstone/main/images/cluster_3.JPG)
+
+### Cluster 4
+[](https://raw.githubusercontent.com/DocBrown85/AppliedDataScienceCapstone/main/images/cluster_4.JPG)
+
+### Cluster 5
+[](https://raw.githubusercontent.com/DocBrown85/AppliedDataScienceCapstone/main/images/cluster_5.JPG)
 
 ## Discussion
 
