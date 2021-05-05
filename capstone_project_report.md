@@ -67,7 +67,7 @@ By further investigating, cluster 2 contains the following set of crimes:
 |           VEHICLE AND TRAFFIC LAWS  |
 |                           ROBBERY   |
 |                          BURGLARY   |
-|     OFF. AGNST PUB ORD SENSBLTY &   |
+|     OFF. AGNST PUB ORD SENSBLTY     |
 |    INTOXICATED & IMPAIRED DRIVING   |
 |    OFFENSES AGAINST PUBLIC ADMINI   |
 |                 DANGEROUS WEAPONS   |
@@ -95,8 +95,9 @@ Also cluster 5 well identifies crime __THEFT-FRAUD__ with its related nearby ven
 
 ## Discussion
 
-discuss any observations you noted and any recommendations you can make based on the results.
+Cluster 1, Cluster 3, Cluster 4 and Cluster 5 clearly and neatly relate some crime categories with nearby venue. This is an hint that a relation between their crime categories and nearby venues may exists.
+Cluster 2 contains a more heterogeneous set of crime categories, altough the majority is related to the same most occurring venues. This suggests that a further investigation with a bigger number of clusters may better describe crime categories classified in the big bucket of cluster 2.
 
 ## Conclusion
 
-conclude the report.
+The analisys clearly relate some crime categories with nearby venues. Far from being an absolute and certain indication of a given crime in a set of venue, the result may help police in its daily work to reduce crime. 
