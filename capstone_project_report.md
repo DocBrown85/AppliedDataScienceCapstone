@@ -2,11 +2,14 @@
 
 ## Introduction
 
-discuss the business problem and who would be interested in this project.
+The New York Police department is interested in better understand how venues affect committed crimes, in order to be better prepared to prevent particular crimes in given venues.
 
 ## Data
 
-describe the data that will be used to solve the problem and the source of the data.
+To investigate the problem, we will use the following two data sources:
+
+* [2014-2015 Crimes reported in all 5 boroughs of New York City](https://www.kaggle.com/adamschroeder/crimes-new-york-city?select=NYPD_Complaint_Data_Historic.csv)
+* [The Foursquare API](https://foursquare.com/)
 
 ## Methodology
 
